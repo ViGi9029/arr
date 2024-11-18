@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EEA8F2F2-193F-7689-04D4-646C00A68339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{0DCBDC4B-1A1E-93D1-42C0-85FEFF3ABEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{22EAE2BE-397C-8B72-4AA4-8A08E73EBA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotaryHeart", "RotaryHeart.csproj", "{5D0EEBA3-6628-8DDC-4415-AF587C436E81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA8F2F2-193F-7689-04D4-646C00A68339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA8F2F2-193F-7689-04D4-646C00A68339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA8F2F2-193F-7689-04D4-646C00A68339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA8F2F2-193F-7689-04D4-646C00A68339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCBDC4B-1A1E-93D1-42C0-85FEFF3ABEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCBDC4B-1A1E-93D1-42C0-85FEFF3ABEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCBDC4B-1A1E-93D1-42C0-85FEFF3ABEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCBDC4B-1A1E-93D1-42C0-85FEFF3ABEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EAE2BE-397C-8B72-4AA4-8A08E73EBA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EAE2BE-397C-8B72-4AA4-8A08E73EBA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EAE2BE-397C-8B72-4AA4-8A08E73EBA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EAE2BE-397C-8B72-4AA4-8A08E73EBA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0EEBA3-6628-8DDC-4415-AF587C436E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0EEBA3-6628-8DDC-4415-AF587C436E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0EEBA3-6628-8DDC-4415-AF587C436E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0EEBA3-6628-8DDC-4415-AF587C436E81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
